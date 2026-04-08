@@ -22,7 +22,9 @@ It highlights my frontend development skills with a focus on performance, intera
 - Component-based architecture
 
 ## 📂 Project Structure
+
 src/
+
 ├── components/
 ├── sections/
 ├── assets/
@@ -40,6 +42,8 @@ Run locally
 npm run dev
 Build
 npm run build
+
+
 🌍 Live Demo
 
 Coming soon...
