@@ -1,63 +1,109 @@
 # 🚀 3D Developer Portfolio
 
-An interactive 3D portfolio built to showcase my work, skills, and projects using modern web technologies.
+An interactive 3D developer portfolio crafted to deliver an immersive user experience and showcase frontend expertise with modern technologies.
 
-## 🧠 About The Project
-This project is a visually engaging developer portfolio that leverages 3D graphics and smooth animations to create a unique user experience.
+![Portfolio Preview](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
 
-It highlights my frontend development skills with a focus on performance, interactivity, and clean UI.
+---
 
-## ⚙️ Tech Stack
-- React
-- TypeScript
-- Vite
-- Three.js / React Three Fiber
-- Tailwind CSS
+## 📚 Table of Contents
+
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Assets](#-assets)
+- [Contact Me](#-contact-me)
+- [Suggestions or Feedback](#-suggestions-or-feedback)
+- [Like This Project?](#-like-this-project)
+
+---
 
 ## ✨ Features
-- Interactive 3D elements
-- Smooth animations and transitions
-- Responsive design
-- Clean and modern UI
-- Component-based architecture
 
-## 📂 Project Structure
-src/
-├── components/
-├── sections/
-├── assets/
-├── hooks/
-├── utils/
+- 🔥 3D visuals powered by **React Three Fiber** and **Drei**
+- ⚡ Smooth transitions and scroll-based animations using **Framer Motion**
+- 🎨 Clean, responsive UI with **TailwindCSS**
+- 💌 Working contact form using **EmailJS**
+- 🧱 Beautiful UI enhancements with **Aceternity UI** and **Magic UI**
+- 🚀 Lightning-fast development with **Vite**
 
+---
+
+## 🛠 Tech Stack
+
+| Tech              | Description                           |
+|-------------------|---------------------------------------|
+| React             | Front-end JavaScript library          |
+| Vite              | Fast bundler and dev environment      |
+| TailwindCSS       | Utility-first CSS framework           |
+| React Three Fiber | 3D rendering with Three.js in React   |
+| Drei              | Helpers and abstractions for R3F      |
+| Framer Motion     | Animation library for React           |
+| EmailJS           | Form handling and email integration   |
+| Aceternity UI     | Custom UI components                  |
+| Magic UI          | Prebuilt UI elements and design extras|
+
+---
+
+## 📁 Project Structure
+
+```bash
+├── public/
+│   ├── assets/             # Images, textures, models
+│   ├── models/             # 3D Astronaut model
+│   └── vite.svg
+├── src/
+│   ├── components/         # Reusable components
+│   ├── constants/          # Reusable data
+│   ├── sections/           # Portfolio sections (Hero, About, etc.)
+│   ├── App.jsx             # Main app file
+│   ├── index.css           # Tailwind css
+│   └── main.jsx            # Entry point
+├── tailwind.config.js
+└── vite.config.js
+```
+---
+
+## 🧠 What I Learned
+- Building interactive 3D experiences using React Three Fiber
+- Optimizing performance in 3D-heavy applications
+- Structuring scalable frontend architecture
+
+---
 
 ## 🚀 Getting Started
-
-### Installation
+1. Clone the Repository
+```bash
+git clone https://github.com/mohamedelhadad-22/3d-developer-portfolio.git
+cd 3d-developer-portfolio
+```
+2. Install Dependencies
 ```bash
 npm install
-
-Run locally
+```
+3. Run the Development Server
+```bash
 npm run dev
-Build
-npm run build
-🌍 Live Demo
+```
+The app will be available at http://localhost:5173.
 
-Coming soon...
+---
 
-📸 Preview
+## 🔗 Assets
+Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
 
-Coming soon...
+---
 
-🛠️ Future Improvements
+## 📬 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedg-elhadad/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/966562334798)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/el7adad_22/)
 
-Add more 3D interactions
-Improve performance optimization
-Add dark/light mode
-Integrate contact form
 
-🤝 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/mohamedg-elhadad/
-GitHub: https://github.com/mohamedelhadad-22
 
-⭐ If you like this project, consider giving it a star!
+---
+
+## ⭐ Like This Project?
+If you found this project useful or inspiring, feel free to give it a ⭐ and connect with me!
