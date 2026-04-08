@@ -1,8 +1,8 @@
 # 🚀 3D Developer Portfolio
 
-A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
+An interactive 3D developer portfolio crafted to deliver an immersive user experience and showcase frontend expertise with modern technologies.
 
-![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
+![Portfolio Preview](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
 
 ---
 
@@ -55,7 +55,7 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 │   └── vite.svg
 ├── src/
 │   ├── components/         # Reusable components
-│   ├── constants/          # Reusable datas
+│   ├── constants/          # Reusable data
 │   ├── sections/           # Portfolio sections (Hero, About, etc.)
 │   ├── App.jsx             # Main app file
 │   ├── index.css           # Tailwind css
@@ -63,6 +63,12 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ├── tailwind.config.js
 └── vite.config.js
 ```
+---
+
+## 🧠 What I Learned
+- Building interactive 3D experiences using React Three Fiber
+- Optimizing performance in 3D-heavy applications
+- Structuring scalable frontend architecture
 
 ---
 
@@ -100,4 +106,4 @@ Assets used in the project can be found [here](https://github.com/user-attachmen
 ---
 
 ## ⭐ Like This Project?
-If you like this project, consider giving it a star!
+If you found this project useful or inspiring, feel free to give it a ⭐ and connect with me!
